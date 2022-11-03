@@ -1,0 +1,12 @@
+node_modules
+**/screenshots
+**/videos
+debug.log
+**/mochawesome-report
+mochareports/report.json
+.project
+.vscode
+bdd-output
+/cypress/downloads
+cypress/results/*
+/cypress/reports

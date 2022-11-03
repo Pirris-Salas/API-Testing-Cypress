@@ -1,0 +1,31 @@
+{
+    "postData": {
+        "firstName": "Andy",
+        "lastName": "Arias",
+        "email": "asmith@thinkingtester.com",
+        "location": {
+            "city": "heredia",
+            "country": "CR"
+        },
+        "employer": {
+            "jobTitle": "QA Automation",
+            "company": "Google"
+        }
+    },
+    "getContact": {
+        "id": "62d8b187e48c43062f41c722"
+    },
+    "putData": {
+        "firstName": "Pedro",
+        "lastName": "Perez",
+        "email": "asmith@thinkingtester.com",
+        "location": {
+            "city": "Limon",
+            "country": "CR"
+        },
+        "employer": {
+            "jobTitle": "QA Automation",
+            "company": "Google"
+        }
+    }
+}
